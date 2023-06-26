@@ -1,6 +1,6 @@
 :root {
   --color-main: #ff9a4b;
-  --color-container-color: #eee;
+  --container-color: #eee;
   --color-step-text: #fff;
   --color-footer: #aaa;
 }
@@ -30,7 +30,7 @@ main {
   margin-right: 30px;
   padding: 10px;
   position: relative;
-  background-color: var(--color-container-color);
+  background-color: var(--container-color);
 }
 
 .step-img{
